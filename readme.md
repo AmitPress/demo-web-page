@@ -1,0 +1,1 @@
+Just a demo project to explore ghpages and vite settings
